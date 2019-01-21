@@ -1,0 +1,20 @@
+{
+  "name": "vision",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Noon",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^0.2.3",
+    "@types/csv-parse": "^1.1.11",
+    "@types/pngjs": "^3.3.2",
+    "brain.js": "^1.6.1",
+    "csv-parse": "^4.3.0",
+    "pngjs": "^3.3.3",
+    "simple-spinner": "0.0.5"
+  }
+}
